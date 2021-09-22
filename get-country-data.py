@@ -6,7 +6,7 @@ from geopy.distance import geodesic
 
 
 def get_country_data(checkin_country, df_cities, country_code):
-    ### identifying cities in check-ins from countries in a very naive way
+    #### identifying cities in check-ins from countries in a very naive way
     
 	checkin = checkin_country[checkin_country["CountryCode"] == country_code]
     checkin.reset_index(inplace = True, drop = True)

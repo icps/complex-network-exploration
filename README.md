@@ -29,6 +29,6 @@ We calculated the cities in a very naive way, be careful.
 * To check information such as how many days, users, and places are in city data, run ```check-information.py```
 * Run the notebooks ```Understanding mobility - *** Network.ipynb``` to see the information about the networks
 
-The pdf ```report``` contains a little report about this work (which I used in my class).
+The pdf ```report``` is a little report about this work (which I used in my class).
 
 

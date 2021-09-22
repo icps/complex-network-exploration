@@ -24,10 +24,10 @@ We calculated the cities in a very naive way, be careful.
 
 ## Usage 
 
-
-
-
-
+* Run ```get-country-data.py``` to extract raw check-in information (including cities). We saved this information as ```***_checkin.csv```
+* Run ```extract-network-features.py``` to extract network features from commute and contact network
+* To check information such as how many days, users, and places are in city data, run ```check-information.py```
+* Run the notebooks ```Understanding mobility - *** Network.ipynb``` to see the information about the networks
 
 
 
